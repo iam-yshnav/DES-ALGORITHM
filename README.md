@@ -3,7 +3,7 @@ DES Encryption and Decryption: The code provides two functions, desEncrypt and d
 User Input: Users can input their 64-bit plaintext and 64-bit key. The code handles cases where the input is less than 64 bits by padding with zeros and truncating if it's more than 64 bits.
 
 Clone this repository to your local machine using the following command: 
-git clone https://github.com/your-username/DES-ALGORITHM
+git clone https://github.com/iam-yshnav/DES-ALGORITHM.git
 
 Follow the prompts to input your 64-bit plaintext and key. The program will display the ciphertext and the decrypted plaintext.
 
